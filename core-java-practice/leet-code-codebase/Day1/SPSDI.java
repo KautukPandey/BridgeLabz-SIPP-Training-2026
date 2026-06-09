@@ -1,3 +1,4 @@
+package Day1;
 class Solution {
     public int subtractProductAndSum(int n) {
         int copy = n;
